@@ -4,7 +4,8 @@ public class TestCase002 {
 
     public static void main(String[] args) {
 
-        //Step 1 is done
+        // Step 1 is done
 
+        // Step 2 is done
     }
 }
